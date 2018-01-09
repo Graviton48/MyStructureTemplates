@@ -1,0 +1,12 @@
+{
+    "id" : "MyStructureTemplates",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Graviton48",
+    "displayName" : "MyStructureTemplates",
+    "description" : "",
+    "dependencies" : [{
+           "id": "StructureTemplates",
+           "minVersion": "0.2.0-SNAPSHOT"
+           }],
+    "serverSideOnly" : false
+}
